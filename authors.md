@@ -8,3 +8,5 @@
 * Clare Sloggett
 * Jana Sperschneider
 * Nelle Varoquaux
+* Megan McDonald
+* Kate Snow

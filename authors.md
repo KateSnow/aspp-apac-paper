@@ -10,3 +10,6 @@
 * Nelle Varoquaux
 * Megan McDonald
 * Kate Snow
+* Genevieve Buckley
+* Kerensa McElroy
+* Benjamin Schwessinger
